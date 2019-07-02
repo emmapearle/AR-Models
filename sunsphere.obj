@@ -1,6 +1,6 @@
-# Blender v2.79 (sub 0) OBJ File: 'great_mountain.obj'
+# Blender v2.79 (sub 0) OBJ File: 'sunsphere.glb'
 # www.blender.org
-mtllib great_mountain.mtl
+mtllib sunsphere.mtl
 o Cube
 v 1.000000 -1.000000 -1.000000
 v 1.000000 -1.000000 1.000000
